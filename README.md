@@ -29,7 +29,7 @@ Now, again i trained my LogisticRegression model with newly created data then i 
 
 
 
-#### TASK 3 - CUSTOMER CHURN PREDICTION
+#### TASK 2 - CUSTOMER CHURN PREDICTION
 
 ##### About Data
 
